@@ -39,8 +39,9 @@
         </div>
       </footer>
       </article>
-
-      footer {
+  
+</body>
+    footer {
     background-color: black;
     color: white;
     position: fixed;
@@ -57,7 +58,4 @@ body {
     background-color: bisque;
     font-family: Bai Jamjuree;
 }
-
-      
-</body>
 </html>
