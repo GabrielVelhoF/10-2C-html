@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+    <html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,10 +14,10 @@
            <div class="cartão__conteudo">
             <h3>Programação</h3>
                <div clas="cartão_conteudo_pergunta">
-             o que é javaScript?
+            <p> o que é javaScript </p>
            </div>
            <div claas="cartão__conteudo__resposta">
-             o javaScript é uma linguagem de programação
+           <p>o javaScript é uma linguagem de programação </p>
                </div>   
            </div>
          </article>
@@ -26,16 +27,20 @@
                 <div class="cartão__conteudo">
                 <h3>Programação</h3>
 <div class="cartao__conteudo__pergunta">
-                        O que é CSS?
+                       <p> O que é CSS? </p>
                 </div>
                 <div class="cartao__conteudo__resposta">
-                        O CSS é uma linguagem de estilização
+                       <p> O CSS é uma linguagem de estilização </p>
                 </div>
         </div>
       </footer>
       </article>
   
 </body>
+#container {
+  display: flex;
+
+}
     footer {
     background-color: black;
     color: white;
@@ -54,3 +59,4 @@ body {
     font-family: Bai Jamjuree;
 }
 </html>
+ 
