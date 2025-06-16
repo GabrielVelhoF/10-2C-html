@@ -25,11 +25,6 @@
                <article class="cartão">
                 <div class="cartão__conteudo">
                 <h3>Programação</h3>
-              
-      </section>
-      <main>
-      <footer>
-        <p> projeto de programação  </p>
 <div class="cartao__conteudo__pergunta">
                         O que é CSS?
                 </div>
